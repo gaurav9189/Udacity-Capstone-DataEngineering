@@ -1,0 +1,11 @@
+dwh/
+data/immigration
+data/i94_apr16_sub.sas7bdat
+data/i94.csv
+data/airport-codes_csv.csv
+data/GlobalLandTemperaturesByCity.csv
+data/us-cities-demographics.csv
+data/.ipynb_checkpoints
+output/
+.DS_Store
+metastore_db/
